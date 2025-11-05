@@ -5,10 +5,10 @@ I'm vvvif, a bussiness administration student who is passionate about technology
 -Building beautiful websites with HTML/CSS/JavaScript
 -Exploring the world of AI and Machine Learning
 
-##Current Project
+## Current Project
 This is my first step on GitHub.I'm excited to share my journey here!
 
-##Skills I'm Developing
+## Skills I'm Developing
 * Python
 * Pandas
 * Matplotlib
